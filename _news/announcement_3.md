@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-02-06 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper "Hydroclimate-coupled framework for assessing power system resilience under summer drought and climate change" was accepted by Renewable and Sustainable Energy Review

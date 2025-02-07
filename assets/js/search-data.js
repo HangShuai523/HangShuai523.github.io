@@ -431,15 +431,15 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-hydroclimate-coupled-framework-for-assessing-power-system-resilience-under-summer-drought-and-climate-change-was-accepted-by-renewable-and-sustainable-energy-review",
+            },},{id: "news-our-paper-physics-informed-kolmogorov-arnold-networks-for-power-system-dynamics-was-accepted-by-ieee-open-access-journal-of-power-and-energy",
+          title: 'Our paper “Physics-informed kolmogorov-arnold networks for power system dynamics” was accepted by IEEE...',
+          description: "",
+          section: "News",},{id: "news-our-paper-hydroclimate-coupled-framework-for-assessing-power-system-resilience-under-summer-drought-and-climate-change-was-accepted-by-renewable-and-sustainable-energy-review",
           title: 'Our paper “Hydroclimate-coupled framework for assessing power system resilience under summer drought and...',
           description: "",
           section: "News",},{id: "projects-project-1",
